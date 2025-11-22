@@ -1,0 +1,20 @@
+# Python cache / virtual env
+__pycache__/
+*.py[cod]
+.Python
+.venv/
+venv
+env/
+
+
+# Streamlit artifacts
+.streamlit/
+
+# IDE/settings
+.vscode/
+.idea/
+.DS_Store
+
+# Local data outputs
+data/*.json
+manual.md
