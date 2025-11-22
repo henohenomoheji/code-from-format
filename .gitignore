@@ -18,3 +18,4 @@ env/
 # Local data outputs
 data/*.json
 manual.md
+data/
