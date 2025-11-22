@@ -16,6 +16,6 @@ env/
 .DS_Store
 
 # Local data outputs
+data
 data/*.json
 manual.md
-data/
